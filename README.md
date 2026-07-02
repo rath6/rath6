@@ -5,7 +5,7 @@ IT grad based in Melbourne. I mostly work on helpdesk, support tooling, and anyt
 This profile is where I document what I'm tyring to learn or build.
 
 
-What I'm working on ⚙️
+## What I'm working on ⚙️
 
 
 Home labs running Kali Linux, Windows AD, and Splunk for SOC and detection work and pen testing
