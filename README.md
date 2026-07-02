@@ -15,16 +15,16 @@ CompTIA A+ → Net+ → Sec+ → CySA+ (Cyber Revolution, currently in progress)
 
 ## Tools & tech I use 🛠️
 
--Operating Systems  
-Kali Linux -- Ubuntu -- Debian -- Fedora -- Windows 10/11 -- Windows Server
+Operating Systems  
+Kali Linux --- Ubuntu --- Debian --- Fedora --- Windows 10/11 --- Windows Server
 
--Security & Networking  
-Splunk -- Wireshark -- nmap -- Active -- Directory
+Security & Networking  
+Splunk --- Wireshark --- nmap --- Active --- Directory
 
--Virtualisation  
-VirtualBox -- VMware -- Fusion -- UTM
+Virtualisation  
+VirtualBox --- VMware --- Fusion --- UTM
 
--Other   
+Other   
 Linux CLI Git
 
 Kali runs on dedicated hardware. Windows 10/11 and Server on dedicated machines. Debian/Ubuntu/Fedora exposure primarily through VMs on Mac via UTM and VMware Fusion.
