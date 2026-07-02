@@ -22,7 +22,7 @@ Comfortable in both Windows and Linux environments. Networking fundamentals, bas
 
 ## A bit about me
 
-I'm into the personalisation of consumer tech — the idea that your devices should be built around how you actually use them, not how a product manager thought you would. Dedicated media player for music. Physical media (yes, CDs). Separate machines for separate purposes. Cyberdecks and the DIY side of hardware. If it can be customised, I've probably thought too hard about it.
+I'm into the personalisation of consumer tech — the idea that your devices should be built around how you actually use them or honestly if you just think it looks cool, not how a product manager thought you would. Dedicated media players for music. Physical media (yes, CDs). Separate machines for separate purposes. Cyberdecks and the DIY side of hardware. If it can be customised, I've probably thought too hard about it.
 
 I have a dog. She's more important than most of this.
 
