@@ -33,7 +33,7 @@ Comfortable in both Windows and Linux and mac environments. Networking fundament
 
 ## A bit about me 📝
 
-I'm into the personalisation of consumer tech — the idea that your devices should be built around how you actually use them or honestly if you just think it looks cool, not how a product manager thought you would. Dedicated media players for music, self hosting. Physical media (yes, CDs). Separate machines for separate purposes. Cyberdecks and the DIY side of hardware. If it can be customised, I've probably thought too hard about it.
+I'm into the personalisation of consumer tech and the idea that your devices should be built around how you actually use them or honestly if you just think it looks cool, not how a product manager thought you would. Dedicated media players for music, self hosting. Physical media (yes, CDs). Separate machines for separate purposes. Cyberdecks and the DIY side of hardware. If it can be customised, I've probably thought too hard about it.
 
 I have a dog too :)
 
