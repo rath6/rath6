@@ -17,10 +17,13 @@ CompTIA A+ → Net+ → Sec+ → CySA+ (Cyber Revolution, currently in progress)
 
 --Operating Systems--
 Kali Linux // Ubuntu // Debian // Fedora // Windows 10/11 Windows Server
+
 --Security & Networking--
 Splunk Wireshark nmap Active Directory
+
 --Virtualisation--
 VirtualBox VMware Fusion UTM
+
 --Other--
 Linux CLI Git
 
