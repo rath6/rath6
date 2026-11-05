@@ -10,7 +10,7 @@ This profile is where I document what I'm tyring to learn or build.
 
 Home labs running Kali Linux, Windows AD, and Splunk for SOC and detection work and pen testing
 TryHackMe — working through SOC Level 1 and Jr Penetration Tester paths
-CompTIA A+ → Net+ → Sec+ → CySA+ (Cyber Revolution, currently in progress)
+CompTIA A+ → Net+ → Sec+ → CySA+ (Cyber Revolution, currently in progress) 3 months left oof
 
 
 ## Tools & tech I use 🛠️
